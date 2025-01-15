@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hola soy Miguel
+<h2> Hola soy Miguel </h2>
